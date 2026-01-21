@@ -1,3 +1,16 @@
+<!-- TOP DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" />
+</p>
+
+<details>
+
+<summary>
+  <p align="center"><b>👉 Click & Open To See :)</b></p>
+</summary>
+
+<br/>
+
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Amit Das</h1>
 <h3 align="center">Full Stack Developer | Cloud & API Enthusiast</h3>
@@ -10,46 +23,46 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZiNnF6aHJ1Z3V0M3VjM2V4eW5qNHF0ZHRmcm5mZTBwZWNwNXp4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
-
-- 💻 Passionate **Full Stack Developer**
-- 🌐 Strong in **HTML, CSS, JavaScript**
-- ⚙️ Backend experience with **Java & C++**
-- ☁️ Learning **Cloud Computing & API Design**
-- 🔐 Interested in **Security, Zero-Trust & Cryptography**
-- 📈 Focused on writing **clean, scalable code**
+- 🚀 **Passionate Full Stack Developer**
+- 🌐 **Strong in HTML, CSS, JavaScript**
+- ⚙️ **Backend experience with Java & C++**
+- ☁️ **Learning Cloud Computing & API Design**
+- 🔐 **Interested in Security, Zero-Trust & Cryptography**
+- 📈 **Focused on writing clean, scalable code**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌈 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp" />
-</p>
+- Java  
+- C++  
 
 ### 🗄️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-</p>
+- Git & GitHub  
+- Linux  
+- VS Code  
+- Postman  
 
 ---
 
 ## 📌 What I’m Currently Working On
-- 🔹 Full Stack Web Projects
-- 🔹 REST API Development
-- 🔹 Cloud & System Design Basics
-- 🔹 DSA & Problem Solving
-- 🔹 Secure API Architectures
+
+- 🔹 Full Stack Web Projects  
+- 🔹 REST API Development  
+- 🔹 Cloud & System Design Basics  
+- 🔹 Data Structures & Algorithms  
+- 🔹 Secure API Architectures  
 
 ---
 
 ## 📂 Featured Projects
+
 🚧 *Projects will be added soon…*
 
 - 🔐 Secure API Mini Projects  
@@ -71,30 +84,24 @@
 
 ---
 
-## 🎥 Introduction Video
-
-<p align="center">
-  <video src="assets/intro.mp4" width="720" controls muted autoplay loop></video>
-</p>
-
-> *A short visual introduction showcasing my interest in full stack development, technology, and continuous learning.*
-
----
-
 ## 🌍 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Amit9718">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amit-das-97b92a319/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:roygoblin583@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+- 💻 GitHub: https://github.com/Amit9718  
+- 💼 LinkedIn: https://www.linkedin.com/in/amit-das-97b92a319/  
+- 📧 Email: roygoblin583@gmail.com  
 
 ---
 
 ✨ *“Build with logic, design with clarity, and secure by default.”*
+
+<!-- LAST IMAGE (YOU ASKED TO KEEP THIS) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+</details>
+
+<!-- BOTTOM DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" />
+</p>
