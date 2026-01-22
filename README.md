@@ -6,8 +6,13 @@
 <details>
 
 <summary>
-  <p align="center"><b>👉 Click & Open To See :)</b></p>
+  <p align="center"><b>Click & Open To See :)</b></p>
 </summary>
+
+<!-- CENTER VISUAL (ONLINE HOSTED) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" />
+</p>
 
 <br/>
 
@@ -23,6 +28,10 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - 🚀 **Passionate Full Stack Developer**
 - 🌐 **Strong in HTML, CSS, JavaScript**
 - ⚙️ **Backend experience with Java & C++**
@@ -30,9 +39,25 @@
 - 🔐 **Interested in Security, Zero-Trust & Cryptography**
 - 📈 **Focused on writing clean, scalable code**
 
+</td>
+<td width="40%" align="center">
+
+<img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=500&q=80"
+     width="260"
+     alt="Developer portrait"
+     style="border-radius:12px;" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+</p>
 
 ### 🌈 Frontend
 - HTML5  
@@ -94,9 +119,8 @@
 
 ✨ *“Build with logic, design with clarity, and secure by default.”*
 
-<!-- LAST IMAGE (YOU ASKED TO KEEP THIS) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
 
 </details>
